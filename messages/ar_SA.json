@@ -5,7 +5,7 @@
         "تحميل مقاطع اليوتيوب كملفات صوتية لتسطيع سماعها في اي مكان !\\n\\n",
         "الاسم الآخر للبوت: @YTAudio_Bot"
     ],
-    "type_search_terms": "{MEMO} اكتب عبارات بحثك",
+    "type_search_terms": "{MEMO} اكتب عبارة البحث",
     "search_on_youtube": "{RIGHT_POINTING_MAGNIFYING_GLASS} بحث \\\"{terms}\\\" في اليوتيوب",
     "error": "{PENSIVE_FACE} حدث خطأ. حاول مرة اخرى لاحقاً.",
     "longer_download_time": "{WARNING_SIGN} *هذا الفيديو من الممكن ان يأخذ وقت اطول من العتاد. وربما يفشل تحميله!*",
