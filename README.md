@@ -6,23 +6,25 @@ _Stay tuned for news and updates on our [Telegram Channel](//telegram.me/ytaudio
 
 YTAudioBot is currently available in the following languages:
 
-| Language                                 | Contributors                                                       |
-| :--------------------------------------- | :----------------------------------------------------------------- |
-| :us: **English** (en_US)                 | [Dan](//github.com/delivrance)                                     |
-| :it: **Italiano** (it_IT)                | [Dan](//github.com/delivrance)                                     |
-| :es: **Español** (es_ES)                 | [Gerardo](//github.com/balboag)                                    |
-| :brazil: **Português** (pt_BR)           | [Rafael](//github.com/rafaelsturmer)                               |
-| :israel: **עברית** (he_IL)               | [PhantomGitHub](//github.com/PhantomGitHub)                        |
-| :de: **Deutsch** (de_DE)                 | [Julian](//github.com/jwsp1), Alex                                 |
-| :finland: **Suomi** (fi_FI)              | [Elias](//github.com/theel0ja)                                     |
-| :greece: **Ελληνικά** (el_GR)            | [stamsarger](//github.com/stamsarger)                              |
-| :romania: **Română** (ro_RO)             | [NicuG](//telegram.me/nicug)                                       |
-| :uzbekistan: **O'zbek** (Lt_uz_UZ)       | [HusanboyBayern](//telegram.me/HusanboyBayern)                     |
-| :indonesia: **Bahasa Indonesia** (id_ID) | [Aldian Hudaya](//telegram.me/oichidan)                            |
-| :cn: **简体中文** (zh_CN)                 | [Kris](//telegram.me/littlekris)                                   |
-| :taiwan: **繁體中文** (zh_TW)             | [Kris](//telegram.me/littlekris)                                   |
-| :tr: **Türkçe** (tr_TR)                  | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) |
- > Add yourself here once you submit your translations
+Language | Contributors | Translated
+:-- | :-- | :--
+:us: **English** ([en_US](messages/en_US.json)) | [Dan](//github.com/delivrance) | -
+:it: **Italiano** ([it_IT](messages/it_IT.json)) | [Dan](//github.com/delivrance) | -
+:es: **Español** ([es_ES](messages/es_ES.json)) | [Gerardo](//github.com/balboag) | 100%
+:brazil: **Português** ([pt_BR](messages/pt_BR.json)) | [Rafael](//github.com/rafaelsturmer) | [**95.1%**](https://github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:israel: **עברית** ([he_IL](messages/he_IL.json)) | [PhantomGitHub](//github.com/PhantomGitHub) | 100%
+:de: **Deutsch** ([de_DE](messages/de_DE.json)) | [Julian](//github.com/jwsp1), Alex | 100%
+:finland: **Suomi** ([fi_FI](messages/fi_FI.json)) | [Elias](//github.com/theel0ja) | 100%
+:greece: **Ελληνικά** ([el_GR](messages/el_GR.json)) | [stamsarger](//github.com/stamsarger) | 100%
+:romania: **Română** ([ro_RO](messages/ro_RO.json)) | [NicuG](//telegram.me/nicug) | [**95.1%**](https://github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:uzbekistan: **O'zbek** ([Lt_uz_UZ](messages/Lt_uz_UZ.json)) | [HusanboyBayern](//telegram.me/HusanboyBayern) | [**97.1%**](https://github.com/ytaudiobot/ytaudiobot-l10n/issues/53)
+:indonesia: **Bahasa Indonesia** ([id_ID](messages/id_ID.json)) | [Aldian Hudaya](//telegram.me/oichidan) | 100%
+:tr: **Türkçe** ([tr_TR](messages/tr_TR.json)) | [EypCnn](//github.com/EypCnn), [Ilker Binzet](//github.com/binzet) | 100%
+**(WIP)** :cn: **简体中文** ([zh_CN](messages/zh_CN.json)) | [Kris](//telegram.me/littlekris) | 100%
+**(WIP)** :taiwan: **繁體中文** ([zh_TW](messages/zh_TW.json)) | [Kris](//telegram.me/littlekris) | 100%
+**(WIP)** :saudi_arabia: **العربية** ([ar_SA](messages/ar_SA.json)) | [Mohammad Fahad](//twitter.com/mohmd1429) | 100%
+
+> Add yourself here once you submit your translations
 
 All translations, except English (en_US) and Italiano (it_IT), are made by volunteers who decided to help.
 More translations and improved translations in any language are gratefully accepted!
